@@ -2,12 +2,12 @@
 public class Main {
 
 	public Main() {
-		// TODO ApÈndice de constructor generado autom·ticamente
-		System.out.println("Funciona");
+		// TODO Ap√©ndice de constructor generado autom√°ticamente
+		System.out.println("Funciona bien");
 	}
 
 	public static void main(String[] args) {
-		// TODO ApÈndice de mÈtodo generado autom·ticamente
+		// TODO Ap√©ndice de m√©todo generado autom√°ticamente
 
 	}
 
